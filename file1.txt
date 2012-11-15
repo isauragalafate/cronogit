@@ -1,1 +1,4 @@
 file1.txt
+
+Modificación 1
+Modificación 2
